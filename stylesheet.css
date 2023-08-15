@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 
+
 header {
   background-color: blueviolet;
   width: 100%;
@@ -192,16 +193,4 @@ footer img {
   height: 30px;
   width: 150px;
   margin-top: 20px;
-}
-
-@media (max-width: 1000px) {
-  .youtube {
-    width: 50%;
-  }
-}
-
-@media (max-width: 670px) {
-  .youtube {
-    width: 100%;
-  }
 }
